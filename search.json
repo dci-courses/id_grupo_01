@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "proyecto ingdatos",
+    "section": "",
+    "text": "::: {#cell-1 .cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\n:::",
+    "crumbs": [
+      "proyecto ingdatos"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "proyecto ingdatos",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall proyecto ingdatos in Development mode\n# make sure proyecto ingdatos package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to proyecto ingdatos\n$ nbdev_prepare",
+    "crumbs": [
+      "proyecto ingdatos"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "proyecto ingdatos",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/master/proyecto ingdatos.git\nor from conda\n$ conda install -c master proyecto ingdatos\nor from pypi\n$ pip install proyecto ingdatos\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "proyecto ingdatos"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "proyecto ingdatos",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "proyecto ingdatos"
+    ]
+  },
+  {
+    "objectID": "ia-asistencia.html",
+    "href": "ia-asistencia.html",
+    "title": "IA asistencia",
+    "section": "",
+    "text": "Instrucciones: Posicionar al sujeto frente a la cámara de forma que sea reconocido, mostrándose un rectángulo rojo. Asignar nombre, y presionar “Tomar foto”. Una vez se haya ingresado toda la información de al menos DOS usuarios, presionar “Entrenar”.",
+    "crumbs": [
+      "IA asistencia"
+    ]
+  },
+  {
+    "objectID": "ia-asistencia.html#registro-y-reconocimiento",
+    "href": "ia-asistencia.html#registro-y-reconocimiento",
+    "title": "IA asistencia",
+    "section": "",
+    "text": "Instrucciones: Posicionar al sujeto frente a la cámara de forma que sea reconocido, mostrándose un rectángulo rojo. Asignar nombre, y presionar “Tomar foto”. Una vez se haya ingresado toda la información de al menos DOS usuarios, presionar “Entrenar”.",
+    "crumbs": [
+      "IA asistencia"
+    ]
+  },
+  {
+    "objectID": "00_core.html",
+    "href": "00_core.html",
+    "title": "core",
+    "section": "",
+    "text": "Fill in a module description here\n\n::: {#cell-3 .cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\nfrom nbdev.showdoc import *\n:::\n::: {#cell-4 .cell 0=‘e’ 1=‘x’ 2=‘p’ 3=‘o’ 4=‘r’ 5=‘t’}\ndef foo(): pass\n:::\n::: {#cell-5 .cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\nimport nbdev; nbdev.nbdev_export()\n:::",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "idea-proyecto.html",
+    "href": "idea-proyecto.html",
+    "title": "Idea de proyecto",
+    "section": "",
+    "text": "Idea de proyecto\nSistema de reconocimiento facial que permita el registro de asistencia en la universidad, de forma que sea más rápido y simple tomar asistencia, en lugar de anotarlo en un papel.",
+    "crumbs": [
+      "Idea de proyecto"
+    ]
+  }
+]
