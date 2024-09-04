@@ -15,6 +15,8 @@ from proyecto ingdatos.core import *
 > master
 
 
+# Integrantes: Oscar Millalonco, Manuel Espiñeira, Daniel Aguayo
+
 This file will become your README and also the index of your documentation.
 
 ## Developer Guide
@@ -76,7 +78,7 @@ Documentation can be found hosted on this GitHub [repository][repo]'s [pages][do
 
 Fill me in please! Don't forget code examples:
 
-::: {#cell-15 .cell}
+::: {#cell-16 .cell}
 ``` {.python .cell-code}
 1+1
 ```
