@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "proyecto ingdatos"
+  site-url: "https://master.github.io/proyecto ingdatos"
+  description: "master"
+  repo-branch: master
+  repo-url: "https://github.com/master/proyecto ingdatos"
