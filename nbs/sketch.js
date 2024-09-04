@@ -47,7 +47,9 @@ function draw() {
     strokeWeight(2)
     textSize(21)
     textAlign(CENTER)
-    text(labels[i]?labels[i][0].label:"???", box.xMin + (box.width / 2), box.yMin + box.height + 20)
+
+    let selectedLabel=labels[i]&&labels[i][0].confidence>0.95?labels[i][0].label:"???"
+    text(selectedLabel, box.xMin + (box.width / 2), box.yMin + box.height + 20)
     
     classifier.classifyFaces()
   }
