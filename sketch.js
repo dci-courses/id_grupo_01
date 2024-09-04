@@ -39,7 +39,7 @@ function draw() {
     //console.log("box",i,JSON.stringify(box))
     //dibujar rectángulo alrededor de una cara
     noFill()
-    stroke(161, 95, 251)
+    stroke(255,0,0)
     strokeWeight(4)
     rect(box.xMin, box.yMin, box.width, box.height)
 
