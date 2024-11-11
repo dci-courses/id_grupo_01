@@ -1,4 +1,4 @@
-const imgSize=64;
+const imgSize=128;
 
 //Esto solo existe para posicionar la label generada para una cara en un índice igual a esta
 //ej: hay dos caras, por lo que el label de la cara en 0 será posicionado en labels[0]
