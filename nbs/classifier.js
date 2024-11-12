@@ -21,6 +21,7 @@ class ClassifierNN{
         if (faces.length==0){
             console.error("No faces found")
             alert("No se detectó ninguna cara!")
+            throw new Exception("noface")
         }
         else if (faces.length===1){
             const box=faces[0].box;

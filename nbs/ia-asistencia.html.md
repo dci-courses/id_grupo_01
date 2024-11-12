@@ -14,6 +14,8 @@ format: html
 Instrucciones: Posicionar al sujeto frente a la cámara de forma que sea reconocido, mostrándose un rectángulo rojo. Asignar nombre, y presionar "Tomar foto".
 Una vez se haya ingresado toda la información de al menos DOS usuarios, presionar "Entrenar". 
 
+### Entrenar el modelo solo funciona en firefox.
+
 <div id="p5-sketch">
   <div id="canvas-container"></div>
 </div>

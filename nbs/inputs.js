@@ -12,7 +12,18 @@ function showInputs(){
             alert("No hay una etiqueta utilizable!")
         }
         console.log("taking picture")
-        classifier.addExample(nameInput.value())
+
+        for (let index = 0; index < 20; index++) {
+            try{
+                classifier.addExample(nameInput.value())
+            }
+            catch{
+                alert("training interrupted")
+                break;
+            }
+
+        }
+        
     })
 
     const trainBtn=createButton("Entrenar");
