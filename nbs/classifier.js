@@ -1,4 +1,4 @@
-const imgSize=128;
+const imgSize=64;
 
 //Esto solo existe para posicionar la label generada para una cara en un índice igual a esta
 //ej: hay dos caras, por lo que el label de la cara en 0 será posicionado en labels[0]
@@ -21,6 +21,7 @@ class ClassifierNN{
         if (faces.length==0){
             console.error("No faces found")
             alert("No se detectó ninguna cara!")
+            throw new Exception("noface")
         }
         else if (faces.length===1){
             const box=faces[0].box;
