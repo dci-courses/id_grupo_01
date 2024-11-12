@@ -8,6 +8,9 @@ format: html
 
 
 
+
+
+
 # Prototipo de Inteligencia artificial de reconocimiento facial para registro de asistencia
 ## Integrantes: Oscar Millalonco, Manuel Espiñeira, Daniel Aguayo.
 ## Registro y reconocimiento
@@ -15,6 +18,7 @@ Instrucciones: Posicionar al sujeto frente a la cámara de forma que sea reconoc
 Una vez se haya ingresado toda la información de al menos DOS usuarios, presionar "Entrenar". 
 
 ### Entrenar el modelo solo funciona en firefox.
+### Apretar boton para tomar fotografia, toma 15 fotos a la vez
 
 <div id="p5-sketch">
   <div id="canvas-container"></div>
