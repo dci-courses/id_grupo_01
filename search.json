@@ -74,7 +74,7 @@
     "href": "idea-proyecto.html",
     "title": "Idea de proyecto",
     "section": "",
-    "text": "Sistema de reconocimiento facial que permita el registro de asistencia en la universidad, de forma que sea más rápido y simple tomar asistencia, en lugar de anotarlo en un papel.",
+    "text": "Sistema de reconocimiento facial que permita el registro de asistencia en la universidad, de forma que sea más rápido y simple tomar asistencia, en lugar de anotarlo en un papel.\n\n\n\n\nDetección de rostros.\nClasificación de rostros según datos registrados previamente.",
     "crumbs": [
       "Idea de proyecto"
     ]
@@ -85,6 +85,16 @@
     "title": "Idea de proyecto",
     "section": "",
     "text": "Sistema de reconocimiento facial que permita el registro de asistencia en la universidad, de forma que sea más rápido y simple tomar asistencia, en lugar de anotarlo en un papel.",
+    "crumbs": [
+      "Idea de proyecto"
+    ]
+  },
+  {
+    "objectID": "idea-proyecto.html#funcionalidades-inteligentes",
+    "href": "idea-proyecto.html#funcionalidades-inteligentes",
+    "title": "Idea de proyecto",
+    "section": "",
+    "text": "Detección de rostros.\nClasificación de rostros según datos registrados previamente.",
     "crumbs": [
       "Idea de proyecto"
     ]
